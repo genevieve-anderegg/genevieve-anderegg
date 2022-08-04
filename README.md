@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @genevieve-anderegg, currently doing an internship for the ARCTOS database and 
-working to improve the database's project and publications modules and connections. 
-Email me at: gean6192@colorado.edu
+- 👋 Hi, I’m @genevieve-anderegg, Assistant Collections Manager of Invertebrates at the Denver Museum of Nature and Science. Talk to me about fluid collections!
 
 <!---
 genevieve-anderegg/genevieve-anderegg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
